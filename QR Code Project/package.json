@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-project",
+  "version": "1.0.0",
+  "description": "URL to QR code conversion project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "R K Jyothish",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.23",
+    "qr-image": "^3.2.0"
+  }
+}
